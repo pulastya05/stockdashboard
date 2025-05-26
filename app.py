@@ -1,5 +1,5 @@
 import streamlit as st
-from fyers_apiv3 import fyersModel
+from fyers_api import fyersModel
 import pandas as pd
 import requests
 from io import StringIO
